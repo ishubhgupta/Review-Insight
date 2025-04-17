@@ -1,0 +1,4 @@
+/tag
+.venv
+__pycache__/
+data/d.csv
